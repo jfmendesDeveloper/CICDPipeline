@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CICDPipeline", "CICDPipeline\CICDPipeline.njsproj", "{08714A11-6A82-492C-BA88-3E360C9DD80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08714A11-6A82-492C-BA88-3E360C9DD80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08714A11-6A82-492C-BA88-3E360C9DD80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08714A11-6A82-492C-BA88-3E360C9DD80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08714A11-6A82-492C-BA88-3E360C9DD80B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10CEBB4E-5391-4FE0-8DEB-8430BFECFA95}
+	EndGlobalSection
+EndGlobal
